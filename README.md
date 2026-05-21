@@ -7,3 +7,4 @@ The assignment is from StrataScratch, with the following tasks:
 3. Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
 4. Plot the distribution of average ETA by hours. How can this plot be explained?
 5. BONUS Hexagons. Using the h3 and folium packages, calculate how many sizes 8 hexes contain 80% of all orders from the original data sets and visualise the hexes, colouring them by the number of fails on the map.
+To see the map produced for question 5 go to https://miguelbersano.github.io/Gett/failed_orders_h3_hexes_80_percent.html
